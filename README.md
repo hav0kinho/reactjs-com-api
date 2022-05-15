@@ -6,6 +6,6 @@ Esse projeto basicamente tenta fazer uma pokedex basica contendo os nomes dos po
 Foi feita com o intuito de treinar minhas habilidades com fetch do Javascript e JSX do React, além claro de exercitar os comandos para criação de paginas com ReactJS
 
 ## Tecnologias utilizadas
-####ReactJS
-####HTML
-####CSS
+#### ReactJS
+#### HTML
+#### CSS
