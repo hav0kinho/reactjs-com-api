@@ -1,0 +1,29 @@
+main{
+    max-width: 800px;
+    text-align: center;
+    margin: 0 auto;
+}
+section{
+    padding: 0;
+}
+div li{
+    list-style: none;
+}
+
+.pokemon-list-div{
+    background-color: white;
+    border: 1px solid rgb(131, 131, 131);
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding: 20px;
+}
+
+.pokemon-name{
+    color: black;
+    font-weight: bold;
+}
+
+.div-botoes{
+    display: flex;
+    justify-content: space-between;
+}

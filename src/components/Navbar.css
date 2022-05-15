@@ -1,0 +1,18 @@
+nav{
+    background-color: tomato;
+    text-align: center;
+}
+nav div{
+    padding: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+.Logo{
+    padding: 20px;
+    font-size: 24px;
+    color: white;
+}
